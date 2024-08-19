@@ -44,7 +44,7 @@ Ensure you have the following installed on your local machine:
    
 ### 1. Backend Setup
 
-Navigate to the `backend` directory and follow these steps:
+   Navigate to the `backend` directory and follow these steps:
 
     ```bash
     cd backend
@@ -52,7 +52,7 @@ Navigate to the `backend` directory and follow these steps:
 
 1. **Install dependencies:**
 
-       Run the following command to install the required dependencies:
+   Run the following command to install the required dependencies:
 
    ```bash
    npm install
@@ -60,18 +60,18 @@ Navigate to the `backend` directory and follow these steps:
 
 3. **Start the server:**
 
-       Start the backend server with the following command:
+   Start the backend server with the following command:
 
    ```bash
    node app.js
    
 
-   This command will start the server on http://localhost:5000.
+  This command will start the server on http://localhost:5000.
 
 
 ### 2. Frontend Setup
 
-    After setting up the backend, navigate back to the root directory and then to the frontend directory:
+   After setting up the backend, navigate back to the root directory and then to the frontend directory:
 
     ```bash
     cd ..
@@ -81,7 +81,7 @@ Navigate to the `backend` directory and follow these steps:
 
 1. **Install dependencies:**
 
-       Run the following command to install the required dependencies:
+   Run the following command to install the required dependencies:
 
    ```bash
    npm install
@@ -89,11 +89,11 @@ Navigate to the `backend` directory and follow these steps:
 
 3. **Start the Development Server:**
 
-       Start the frontend development server with the following command:
+   Start the frontend development server with the following command:
 
    ```bash
    npm start
    
 
-   This command will start the frontend server on http://localhost:3000.
-   Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+This command will start the frontend server on http://localhost:3000.
+Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
