@@ -10,11 +10,16 @@ This project provides a set of RESTful APIs for managing cards in a help center.
 
 ## Technologies Used
 
+### 1. Backend
 - **Node.js**
 - **Express.js**
 - **MongoDB** with Mongoose
 - **Cors**
 - **dotenv**
+
+### 2. Frontend
+- **React Js**
+- **Context API**
 
 ## Getting Started
 
