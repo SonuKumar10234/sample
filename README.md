@@ -28,64 +28,59 @@ Ensure you have the following installed on your local machine:
 
 ### Instructions to set up and run the project locally:
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   
-   cd fullstack-assignment
+### 1. Clone the repository and naviagte to the project directory:
 
 
-2. **Navigate to the project directory:**
+```bash
+git clone https://github.com/iAmritMalviya/fullstack-assignment
 
-   ```bash
-   cd fullstack-assignment
-   
-### 1. Backend Setup
+cd fullstack-assignment
+```
+
+### 2. Backend Setup
 
    Navigate to the `backend` directory and follow these steps:
    ```bash
     cd backend
-    
-
-1. **Install dependencies:**
+```
+-  **Install dependencies:**
 
    Run the following command to install the required dependencies:
    ```bash
    npm install
-   
 
-3. **Start the server:**
+- **Start the server:**
 
    Start the backend server with the following command:
    ```bash
    node app.js
-   
+   ```
 
   This command will start the server on http://localhost:5000.
 
 
-### 2. Frontend Setup
 
-   After setting up the backend, navigate back to the root directory and then to the frontend directory:
-   ```bash
-    cd ..
-    cd frontend
-    
+### 3. Frontend Setup
 
-1. **Install dependencies:**
+After setting up the backend, navigate back to the root directory and then to the frontend directory:
+
+```bash
+cd ..
+cd frontend
+```
+
+-  **Install dependencies:**
 
    Run the following command to install the required dependencies:
    ```bash
    npm install
-   
 
-3. **Start the Development Server:**
+- **Start the Development Server:**
 
    Start the frontend development server with the following command:
    ```bash
    npm start
-   
+   ```
 
-This command will start the frontend server on http://localhost:3000.
-Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+  This command will start the frontend server on http://localhost:3000.
+  Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
