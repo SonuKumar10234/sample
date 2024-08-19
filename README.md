@@ -67,7 +67,7 @@ cd fullstack-assignment
 
 ### 3. Frontend Setup
 
-After setting up the backend, navigate back to the root directory and then to the frontend directory:
+After setting up the backend, navigate back to the root directory and then to the `frontend` directory:
 
 ```bash
 cd ..
