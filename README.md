@@ -75,9 +75,8 @@ Ensure you have the following installed on your local machine:
 
     ```bash
     cd ..
-    
     cd frontend
-    ```
+    
 
 1. **Install dependencies:**
 
