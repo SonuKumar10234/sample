@@ -34,7 +34,6 @@ Ensure you have the following installed on your local machine:
    git clone https://github.com/iAmritMalviya/fullstack-assignment
    
    cd fullstack-assignment
-   ```
 
 
 2. **Navigate to the project directory:**
@@ -45,15 +44,13 @@ Ensure you have the following installed on your local machine:
 ### 1. Backend Setup
 
    Navigate to the `backend` directory and follow these steps:
-
-    ```bash
+   ```bash
     cd backend
     
 
 1. **Install dependencies:**
 
    Run the following command to install the required dependencies:
-
    ```bash
    npm install
    
@@ -61,7 +58,6 @@ Ensure you have the following installed on your local machine:
 3. **Start the server:**
 
    Start the backend server with the following command:
-
    ```bash
    node app.js
    
@@ -72,8 +68,7 @@ Ensure you have the following installed on your local machine:
 ### 2. Frontend Setup
 
    After setting up the backend, navigate back to the root directory and then to the frontend directory:
-
-    ```bash
+   ```bash
     cd ..
     cd frontend
     
@@ -81,7 +76,6 @@ Ensure you have the following installed on your local machine:
 1. **Install dependencies:**
 
    Run the following command to install the required dependencies:
-
    ```bash
    npm install
    
@@ -89,7 +83,6 @@ Ensure you have the following installed on your local machine:
 3. **Start the Development Server:**
 
    Start the frontend development server with the following command:
-
    ```bash
    npm start
    
