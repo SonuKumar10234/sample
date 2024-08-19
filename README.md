@@ -1,6 +1,6 @@
 # Help Center API
 
-This project provides a set of RESTful APIs for managing cards in a help center. User can create card, retrieve all cards, and fetch a specific card by its title.
+This project provides a set of RESTful APIs for managing cards in a help center. User can create card, retrieve all cards, and get a specific card by its title.
 
 ## Features
 
