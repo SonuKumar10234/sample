@@ -33,6 +33,7 @@ Ensure you have the following installed on your local machine:
    ```bash
    git clone https://github.com/iAmritMalviya/fullstack-assignment
 cd fullstack-assignment
+```
 
 2. **Navigate to the project directory:**
 
